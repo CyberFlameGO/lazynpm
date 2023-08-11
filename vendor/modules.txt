@@ -116,7 +116,7 @@ github.com/subosito/gotenv
 github.com/tcnksm/go-gitconfig
 # golang.org/x/net v0.0.0-20200301022130-244492dfa37a
 ## explicit
-# golang.org/x/sys v0.0.0-20200413165638-669c56c373c4
+# golang.org/x/sys v0.1.0
 ## explicit
 golang.org/x/sys/unix
 # golang.org/x/text v0.3.2
