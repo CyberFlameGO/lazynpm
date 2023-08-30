@@ -114,12 +114,10 @@ github.com/subosito/gotenv
 # github.com/tcnksm/go-gitconfig v0.1.2
 ## explicit
 github.com/tcnksm/go-gitconfig
-# golang.org/x/net v0.0.0-20200301022130-244492dfa37a
-## explicit
-# golang.org/x/sys v0.0.0-20200413165638-669c56c373c4
-## explicit
+# golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
+golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
-# golang.org/x/text v0.3.2
+# golang.org/x/text v0.3.8
 ## explicit
 golang.org/x/text/internal/language
 golang.org/x/text/internal/language/compact
